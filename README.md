@@ -6,11 +6,11 @@ I'm currently a software engineer at Mixal, a platform to empower private crypto
 
 ## Experience
 
-- Web Development | 2 years total
+- Web Development - 2 years total
   - React
   - Typescript
   - HTML/CSS
-- JVM | 3 years total
+- JVM - 3 years total
   - Java
   - Kotlin
   - Scala
