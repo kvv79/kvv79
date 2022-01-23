@@ -8,7 +8,8 @@ I'm currently a software engineer at Mixal, a platform to empower private crypto
 
 - Web Development
   - React
-  - Typescript/Javascript
+  - Typescript
+  - HTML/CSS
 - JVM
   - Java
   - Kotlin
