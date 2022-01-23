@@ -1,16 +1,15 @@
-### Hi there 👋
+### Introduction
 
-<!--
-**kvv79/kvv79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm kv, a Full Stack Web and JVM Developer.
 
-Here are some ideas to get you started:
+I'm currently a software engineer at Mixal, a platform to empower private cryptocurrency transactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+
+- Web Development
+  - React
+  - Typescript/Javascript
+- JVM
+  - Java
+  - Kotlin
+  - Scala
