@@ -11,4 +11,3 @@ Hello, I'm kv, a Full Stack Web and JVM Developer.
 - JVM - 3 years total
   - Java
   - Kotlin
-  - Scala
