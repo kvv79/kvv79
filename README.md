@@ -12,4 +12,4 @@ Hello, I'm kv, a Full Stack Web and JVM Developer.
   - Java
   - Kotlin
 
-[![kvv's Github Stats](https://github-readme-stats.vercel.app/api?username=kvv79)](https://github.com/kvv79/github-readme-stats)
+![kvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvv79&show_icons=true&theme=gradient)
