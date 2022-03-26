@@ -1,6 +1,6 @@
 ### Introduction
 
-Hello, I'm kv, a Web and Java Developer. I'm experienced in Java, HTML/CSS, React.js, TypeScript and PostgreSQL. 
+Hello, I'm kv. I'm experienced in Java, Kotlin and PostgreSQL. I'm currently learning C++ and Go.
 
 You can contact me on Discord (asu#5330) or via email (hello@asuu.tech).
 
