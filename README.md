@@ -8,4 +8,4 @@ You can contact me on Discord (asu#5330) or via email (me@asuu.tech).
 
 ### Projects
 
-I'm currently working on a variety of projects, the main one being an experimental algorithmic trading bot developed using C#.
+Currently operating [Afflua](https://github.com/Afflua).
